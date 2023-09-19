@@ -16,27 +16,27 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/scene.jpg";
+import image from "../images/image2.jpg";
 
-const imageAltText = "image of beautiful scene";
+const imageAltText = "image of background for about section";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm an enthusiastic learner. I enjoy learning new technologies and help community to grow together.";
+  "I'm an enthusiastic learner. I enjoy learning new technologies and feel happy to help community to grow together.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web development",
   "Content creation",
   "Communication",
   "Event planning",
   "Public speaking",
-  "Leadership",
+  "Volunteering",
+  "Leadership"
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways.I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about solving problems in new creative ways. I continually look for new and better ways to make tech accessible by all.";
 
 const About = () => {
   return (

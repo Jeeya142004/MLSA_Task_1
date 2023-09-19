@@ -28,11 +28,11 @@ const siteProps = {
   title: "Web Developer & Content Creator",
   email: "Jeeya.Agrawal@studentambassadors.com",
   gitHub: "Jeeya142004",
-  instagram: "miss_angel.1407",
-  linkedIn: "Jeeya Agrawal",
+  instagram: "",
+  linkedIn: "https://www.linkedin.com/in/jeeya-agrawal",
   medium: "",
   twitter: "",
-  youTube: "Jeeya Agrawal",
+  youTube: "https://www.youtube.com/@Jeeya_Agrawal",
 };
 
 const primaryColor = "#4E567E";

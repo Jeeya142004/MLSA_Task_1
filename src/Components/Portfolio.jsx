@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/waterfall.jpg";
+import image from "../images/image3.jpg";
 
-const imageAltText = "image of waterfall";
+const imageAltText = "image of desk with computer with study materials.";
 
 /**
  * Project list
@@ -39,10 +39,10 @@ const projectList = [
   {
     title: "My YouTube Channel",
     description:
-      "My Youtube Channel is a great place to connect with me, learn more things with me and grow together.",
+      "My Youtube Channel is a great place to connect with me, learn new things and grow together with me.",
     url: "https://www.youtube.com/@Jeeya_Agrawal",
   },
-  {
+  /**{
     title: "My Python Program of Time Units",
     description:
       "This is a python program which converts time units from seconds to minutes, hours, days, weeks, months and years.",
@@ -53,7 +53,7 @@ const projectList = [
     description:
       "My GitHub Profile is a great place to connect with me and see my projects.",
     url: "https://github.com/Jeeya142004",
-  },
+  },*/
 ];
 
 const Portfolio = () => {
